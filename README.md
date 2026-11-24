@@ -1,4 +1,4 @@
-# LoFed: Fusing complementary local and federated scores via rank-based inverse normal transformation for graph anomaly detection
+# LoFed: Fusing complementary local affinity and federated contrastive scores for federated graph anomaly detection
 
 ![The proposed framework](framework.png)
 
