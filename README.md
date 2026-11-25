@@ -1,4 +1,4 @@
-# LoFed: Fusing complementary local affinity and federated contrastive scores for federated graph anomaly detection
+# LoFed: Local affinity and federated contrastive score fusion for graph anomaly detection
 
 ![The proposed framework](framework.png)
 
